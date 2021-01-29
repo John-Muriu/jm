@@ -2,4 +2,4 @@
 
 >My Portfolio
 
-![my-bitmoji](src/img/me.jpg)# jm
+![my-bitmoji](src/img/mee.jpg)# jm
