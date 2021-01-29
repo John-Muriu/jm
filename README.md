@@ -1,4 +1,4 @@
-# Chris Achinga
+# JOHN MURIU
 
 >My Portfolio
 
