@@ -8,6 +8,7 @@ const portfolio = [{
     {
         id: '2',
         title: 'Backend',
+        link: 'a href="https://angularproj.netlify.app/"',
         image: '/images/cake.png',
         brief_description: 'Creating database models for websites and systems',
     },
