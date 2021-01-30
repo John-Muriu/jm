@@ -45,10 +45,10 @@ const About = () => {
               block
             >
               <a
-                href='https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view'
-                target='_blank'
-                rel='noreferrer'
-              > view full resume (document)
+                 href='https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view'
+                   target='_blank'
+                  rel='noreferrer'
+                > view full resume (document)
               </a>
             </Button>
           </div>

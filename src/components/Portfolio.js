@@ -11,6 +11,7 @@ const Portfolio = () => {
   const handleShow = () => setShow(true)
 
   const name = 'John Muriu Waithira'
+  const link = ""
 
   return (
     <>
