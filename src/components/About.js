@@ -44,8 +44,11 @@ const About = () => {
               className='text-capitalize'
               block
             >
-              <a href='https://www.dropbox.com/s/mz0asx4fu3wce87/chris_achinga%28beta2%29%20.docx?dl=0' target="_blank" rel="noreferrer">
-                view full resume (document)
+              <a
+                href='https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view'
+                target='_blank'
+                rel='noreferrer'
+              > view full resume (document)
               </a>
             </Button>
           </div>

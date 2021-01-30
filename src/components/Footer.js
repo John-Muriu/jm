@@ -61,7 +61,8 @@ const Footer = () => {
       <section className='copyright py-4 text-center text-white'>
         <Container>
           <small className='pre-wrap'>
-            Copyright © John Muriu {currentYear}
+            Copyright © <a href="href='https://github.com/john-muriu'
+">John Muriu </a> {currentYear}
           </small>
         </Container>
       </section>
